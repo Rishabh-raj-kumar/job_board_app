@@ -1,19 +1,14 @@
-# Job Portal YouTube Project
-
-<img src="/assets/37FB601D-A21E-40B0-8EBB-85E788A71571.jpeg" alt="job-portal-yt-1" />
-<img src="/assets/704F0DDE-4406-4396-81EB-406FC1517A0E.jpeg" />
-<img src="/assets/71028C82-B974-4757-8199-99B2006B3FBA.jpeg" />
-<img src="/assets/F68656EA-2BD1-4319-BEE5-78511275AAE1.jpeg" />
+# Job Portal Project
 
 ## Overview
 
 This project appears to be a **Job Portal** likely created as part of a YouTube tutorial series or as a demonstration of web development skills. It probably showcases how to build a platform where users can post and apply for jobs.
 
-**Note:** As there is no README in the repository currently, this description is based on the repository name. More details about the project's specific features and technologies used will be added once the repository is updated or more information is available.
 
-## Key Features (Expected)
 
-Based on the name, the project likely includes features such as:
+## Key Features
+
+The project likely includes features such as:
 
 * **Job Posting:** Ability for users (likely employers) to create and publish job listings.
 * **Job Searching:** Functionality for users (job seekers) to search and browse available jobs based on keywords, location, category, etc.
@@ -22,7 +17,11 @@ Based on the name, the project likely includes features such as:
 * **Application Process:** Functionality for job seekers to apply for jobs.
 * **Admin Panel (Potentially):** An interface for administrators to manage the platform.
 
-**More features will be listed here once the project details are clearer.**
+<img src="/assets/37FB601D-A21E-40B0-8EBB-85E788A71571.jpeg" alt="job-portal-yt-1" />
+<img src="/assets/704F0DDE-4406-4396-81EB-406FC1517A0E.jpeg" />
+<img src="/assets/71028C82-B974-4757-8199-99B2006B3FBA.jpeg" />
+<img src="/assets/F68656EA-2BD1-4319-BEE5-78511275AAE1.jpeg" />
+
 
 ## Getting Started (Expected)
 
