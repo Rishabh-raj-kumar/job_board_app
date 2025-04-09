@@ -1,9 +1,9 @@
 # Job Portal YouTube Project
 
-![job-portal-yt-1](jobportal-yt/assets/37FB601D-A21E-40B0-8EBB-85E788A71571.jpeg)
-![job-portal-yt-2](assets/job-portal-yt-2.png)
-![job-portal-yt-3](assets/job-portal-yt-3.png)
-![job-portal-yt-4](assets/job-portal-yt-4.png)
+<img src="jobportal-yt/assets/37FB601D-A21E-40B0-8EBB-85E788A71571.jpeg" alt="job-portal-yt-1" />
+<img src="assets/job-portal-yt-2.png" alt="job-portal-yt-2" />
+<img src="assets/job-portal-yt-3.png" alt="job-portal-yt-3" />
+<img src="assets/job-portal-yt-4.png" alt="job-portal-yt-4" />
 
 ## Overview
 
@@ -38,7 +38,7 @@ These are general instructions. Specific steps might vary depending on the techn
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Surendrakumarpatel/jobportal-yt.git](https://github.com/Surendrakumarpatel/jobportal-yt.git)
+    git clone [https://github.com/Rishabh-raj-kumar/job_board_app.git](https://github.com/Rishabh-raj-kumar/job_board_app.git)
     cd jobportal-yt
     ```
 2.  **Install dependencies (if Node.js based):**
