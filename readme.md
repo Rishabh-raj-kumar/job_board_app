@@ -1,9 +1,9 @@
 # Job Portal YouTube Project
 
 <img src="/assets/37FB601D-A21E-40B0-8EBB-85E788A71571.jpeg" alt="job-portal-yt-1" />
-<img src="assets/job-portal-yt-2.png" alt="job-portal-yt-2" />
-<img src="assets/job-portal-yt-3.png" alt="job-portal-yt-3" />
-<img src="assets/job-portal-yt-4.png" alt="job-portal-yt-4" />
+<img src="/assets/704F0DDE-4406-4396-81EB-406FC1517A0E.jpeg" />
+<img src="/assets/71028C82-B974-4757-8199-99B2006B3FBA.jpeg" />
+<img src="/assets/F68656EA-2BD1-4319-BEE5-78511275AAE1.jpeg" />
 
 ## Overview
 
